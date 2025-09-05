@@ -1,7 +1,7 @@
 # Hello! 👋
 
-🎓 Programtervező informatikus hallgató (ELTE BSc, 7. félév)  
-💻 Főbb technológiák: Java, C#, Javascript (React), PHP (Laravel)
+🎓 Programtervező informatikus hallgató (ELTE BSc, 7. félév)  \
+💻 Főbb technológiák: Java, C#, Javascript (React), PHP (Laravel) \
 🚀 Gyakornoki lehetőséget keresek szoftverfejlesztésben
 
 ## Kiemelt projektek
