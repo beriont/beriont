@@ -2,7 +2,7 @@
 
 🎓 Programtervező informatikus hallgató (ELTE BSc, 7. félév)  \
 💻 Főbb technológiák: Java, C#, Javascript (React), PHP (Laravel) \
-🚀 Gyakornoki lehetőséget keresek szoftverfejlesztésben
+🚀 Gyakornoki lehetőséget keresek IT területen (szoftverfejlesztés, kiberbiztonság)
 
 ## Kiemelt projektek
 - [Safari Tycoon – Java/Swing](https://github.com/beriont/safari-tycoon)
