@@ -1,10 +1,10 @@
 # Hello! 👋
 
-🎓 Programtervező informatikus hallgató (ELTE BSc, 7. félév)  \
-💻 Főbb technológiák: Java, C#, Javascript (React), PHP (Laravel) \
-🚀 Gyakornoki lehetőséget keresek IT területen (szoftverfejlesztés, kiberbiztonság)
+🎓 Computer Science (ELTE BSc, absolved, planned graduation: Jan 2027)  \
+💻 Main technologies: Typescript/Javascript (React), PHP (Laravel), SQL, Java, C#  \
+🚀 Looking to jumpstart my career in IT as a fresh graduate-candidate
 
-## Kiemelt projektek
+## Main projects (descriptions in Hungarian)
 - [Safari Tycoon – Java/Swing](https://github.com/beriont/safari-tycoon)
 - [War of Valirnia – Laravel/SQLite](https://github.com/beriont/war-of-valirnia)  
 - [Jobhunter – React](https://github.com/beriont/jobhunter)  
