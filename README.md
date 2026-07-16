@@ -1,5 +1,6 @@
 # Hello! 👋
 
+🏢 IT Support Intern and partly Webapp Developer at MET Services \
 🎓 Computer Science (ELTE BSc, absolved, planned graduation: Jan 2027)  \
 💻 Main technologies: Typescript/Javascript (React), PHP (Laravel), SQL, Java, C#  \
 🚀 Looking to jumpstart my career in IT as a fresh graduate-candidate
